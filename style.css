@@ -60,4 +60,4 @@ body{
 }
 .ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--sublinhado);
+    border-bottom: 4px solid var(--sublinhado);}
